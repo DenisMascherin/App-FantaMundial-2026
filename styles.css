@@ -334,6 +334,13 @@ tbody tr:hover {
   color: var(--danger);
 }
 
+.pts-highlight {
+  background: rgba(110, 231, 183, 0.2);
+  color: var(--success);
+  font-weight: 700;
+  border-left: 2px solid rgba(110, 231, 183, 0.4);
+}
+
 .select-wrapper {
   display: flex;
   flex-direction: column;
@@ -468,4 +475,8 @@ code {
   .hero {
     padding-bottom: 70px;
   }
+}
+
+.numeric .delta positive{
+  color: black !important;
 }
