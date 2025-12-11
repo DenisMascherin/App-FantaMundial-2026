@@ -1,254 +1,175 @@
 {
   "worldCupTeams": [
-    {
-      "name": "Argentina",
-      "wins": 3,
-      "draws": 1,
-      "losses": 0,
-      "gf": 9,
-      "gs": 2
-    },
-    { "name": "Brazil", "wins": 3, "draws": 0, "losses": 1, "gf": 8, "gs": 3 },
-    { "name": "France", "wins": 2, "draws": 2, "losses": 0, "gf": 7, "gs": 3 },
-    { "name": "Spain", "wins": 3, "draws": 0, "losses": 1, "gf": 10, "gs": 4 },
-    { "name": "Germany", "wins": 2, "draws": 1, "losses": 1, "gf": 6, "gs": 4 },
-    { "name": "England", "wins": 2, "draws": 2, "losses": 0, "gf": 6, "gs": 3 },
-    {
-      "name": "Portugal",
-      "wins": 2,
-      "draws": 1,
-      "losses": 1,
-      "gf": 7,
-      "gs": 5
-    },
-    {
-      "name": "Netherlands",
-      "wins": 2,
-      "draws": 1,
-      "losses": 1,
-      "gf": 6,
-      "gs": 4
-    },
-    { "name": "Italy", "wins": 2, "draws": 1, "losses": 1, "gf": 5, "gs": 3 },
-    { "name": "Belgium", "wins": 2, "draws": 1, "losses": 1, "gf": 6, "gs": 5 },
-    { "name": "Croatia", "wins": 2, "draws": 2, "losses": 0, "gf": 5, "gs": 3 },
-    { "name": "Uruguay", "wins": 2, "draws": 1, "losses": 1, "gf": 5, "gs": 4 },
-    { "name": "USA", "wins": 2, "draws": 0, "losses": 2, "gf": 6, "gs": 6 },
-    { "name": "Mexico", "wins": 2, "draws": 1, "losses": 1, "gf": 5, "gs": 4 },
-    { "name": "Canada", "wins": 1, "draws": 2, "losses": 1, "gf": 4, "gs": 4 },
-    { "name": "Japan", "wins": 2, "draws": 0, "losses": 2, "gf": 5, "gs": 5 },
-    {
-      "name": "South Korea",
-      "wins": 1,
-      "draws": 2,
-      "losses": 1,
-      "gf": 4,
-      "gs": 4
-    },
-    {
-      "name": "Australia",
-      "wins": 1,
-      "draws": 2,
-      "losses": 1,
-      "gf": 4,
-      "gs": 5
-    },
-    {
-      "name": "Saudi Arabia",
-      "wins": 1,
-      "draws": 1,
-      "losses": 2,
-      "gf": 3,
-      "gs": 6
-    },
-    { "name": "Morocco", "wins": 2, "draws": 1, "losses": 1, "gf": 5, "gs": 3 },
-    { "name": "Senegal", "wins": 2, "draws": 0, "losses": 2, "gf": 5, "gs": 5 },
-    { "name": "Nigeria", "wins": 1, "draws": 2, "losses": 1, "gf": 4, "gs": 4 },
-    { "name": "Egypt", "wins": 1, "draws": 2, "losses": 1, "gf": 3, "gs": 3 },
-    { "name": "Algeria", "wins": 1, "draws": 1, "losses": 2, "gf": 3, "gs": 5 },
-    { "name": "Tunisia", "wins": 1, "draws": 1, "losses": 2, "gf": 3, "gs": 6 },
-    {
-      "name": "Cameroon",
-      "wins": 1,
-      "draws": 2,
-      "losses": 1,
-      "gf": 4,
-      "gs": 5
-    },
-    { "name": "Ghana", "wins": 1, "draws": 1, "losses": 2, "gf": 4, "gs": 6 },
-    {
-      "name": "Ivory Coast",
-      "wins": 1,
-      "draws": 1,
-      "losses": 2,
-      "gf": 3,
-      "gs": 5
-    },
-    {
-      "name": "South Africa",
-      "wins": 1,
-      "draws": 1,
-      "losses": 2,
-      "gf": 3,
-      "gs": 6
-    },
-    { "name": "Chile", "wins": 1, "draws": 1, "losses": 2, "gf": 4, "gs": 6 },
-    {
-      "name": "Colombia",
-      "wins": 2,
-      "draws": 0,
-      "losses": 2,
-      "gf": 6,
-      "gs": 6
-    },
-    { "name": "Ecuador", "wins": 2, "draws": 0, "losses": 2, "gf": 5, "gs": 5 },
-    { "name": "Peru", "wins": 1, "draws": 1, "losses": 2, "gf": 3, "gs": 5 },
-    {
-      "name": "Paraguay",
-      "wins": 1,
-      "draws": 1,
-      "losses": 2,
-      "gf": 3,
-      "gs": 5
-    },
-    { "name": "Bolivia", "wins": 0, "draws": 2, "losses": 2, "gf": 2, "gs": 6 },
-    { "name": "Turkey", "wins": 1, "draws": 2, "losses": 1, "gf": 4, "gs": 4 },
-    { "name": "Greece", "wins": 1, "draws": 2, "losses": 1, "gf": 3, "gs": 3 },
-    {
-      "name": "Switzerland",
-      "wins": 2,
-      "draws": 1,
-      "losses": 1,
-      "gf": 5,
-      "gs": 4
-    },
-    { "name": "Poland", "wins": 1, "draws": 2, "losses": 1, "gf": 3, "gs": 4 },
-    { "name": "Denmark", "wins": 2, "draws": 0, "losses": 2, "gf": 5, "gs": 5 },
-    { "name": "Sweden", "wins": 2, "draws": 0, "losses": 2, "gf": 6, "gs": 6 },
-    { "name": "Norway", "wins": 1, "draws": 1, "losses": 2, "gf": 4, "gs": 6 },
-    { "name": "Ukraine", "wins": 2, "draws": 0, "losses": 2, "gf": 5, "gs": 5 },
-    { "name": "Serbia", "wins": 1, "draws": 1, "losses": 2, "gf": 4, "gs": 6 },
-    { "name": "Austria", "wins": 1, "draws": 1, "losses": 2, "gf": 3, "gs": 5 },
-    {
-      "name": "Czech Republic",
-      "wins": 1,
-      "draws": 2,
-      "losses": 1,
-      "gf": 4,
-      "gs": 4
-    },
-    { "name": "Hungary", "wins": 1, "draws": 1, "losses": 2, "gf": 3, "gs": 5 },
-    { "name": "China", "wins": 0, "draws": 2, "losses": 2, "gf": 2, "gs": 6 }
+    { "name": "Algeria", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Arabia Saudita", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Argentina", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Australia", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Austria", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Belgio", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Brasile", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Canada", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Capo Verde", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Colombia", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Costa d'Avorio", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Croazia", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Curacao", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Ecuador", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Egitto", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Fifa Play-Off 1", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Fifa Play-Off 2", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Francia", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Germania", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Ghana", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Giappone", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Giordania", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Haiti", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Inghilterra", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Iran", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Marocco", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Messico", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Norvegia", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Nuova Zelanda", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Olanda", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Panama", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Paraguay", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Portogallo", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Qatar", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Repubblica di Corea", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Scozia", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Senegal", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Spagna", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Stati Uniti", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Sudafrica", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Svizzera", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Tunisia", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "UEFA Play-Off A", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "UEFA Play-Off B", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "UEFA Play-Off C", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "UEFA Play-Off D", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Uruguay", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 },
+    { "name": "Uzbekistan", "wins": 0, "draws": 0, "losses": 0, "gf": 0, "gs": 0, "gd": 0 }
   ],
   "fantallenatori": [
-    {
-      "name": "Kevin Sandri",
-      "teamName": "Albiceleste Dynasty",
-      "wins": 3,
-      "draws": 1,
-      "losses": 0,
-      "gf": 12,
-      "gs": 4
-    },
-    {
-      "name": "Giulia Rossi",
-      "teamName": "Red Wave",
-      "wins": 3,
-      "draws": 0,
-      "losses": 1,
-      "gf": 10,
-      "gs": 5
-    },
-    {
-      "name": "Marco Bianchi",
-      "teamName": "Nordic Storm",
-      "wins": 2,
-      "draws": 1,
-      "losses": 1,
-      "gf": 9,
-      "gs": 6
-    },
-    {
-      "name": "Laura Conti",
-      "teamName": "Iberian Flair",
-      "wins": 2,
-      "draws": 1,
-      "losses": 1,
-      "gf": 8,
-      "gs": 6
-    },
-    {
-      "name": "Davide Moretti",
-      "teamName": "Azzurri Pulse",
-      "wins": 2,
-      "draws": 0,
-      "losses": 2,
-      "gf": 7,
-      "gs": 7
-    },
-    {
-      "name": "Sara Greco",
-      "teamName": "Samba Vision",
-      "wins": 2,
-      "draws": 0,
-      "losses": 2,
-      "gf": 8,
-      "gs": 8
-    },
-    {
-      "name": "Luca Esposito",
-      "teamName": "Lusitan Pride",
-      "wins": 2,
-      "draws": 0,
-      "losses": 2,
-      "gf": 7,
-      "gs": 8
-    },
-    {
-      "name": "Martina De Luca",
-      "teamName": "Eagle Eyes",
-      "wins": 1,
-      "draws": 1,
-      "losses": 2,
-      "gf": 6,
-      "gs": 7
-    },
-    {
-      "name": "Andrea Romano",
-      "teamName": "Atlas Lions",
-      "wins": 1,
-      "draws": 1,
-      "losses": 2,
-      "gf": 6,
-      "gs": 8
-    },
-    {
-      "name": "Chiara Ferri",
-      "teamName": "Caribbean Beat",
-      "wins": 1,
-      "draws": 0,
-      "losses": 3,
-      "gf": 5,
-      "gs": 9
-    },
-    {
-      "name": "Paolo Galli",
-      "teamName": "Viking Spirit",
-      "wins": 1,
-      "draws": 0,
-      "losses": 3,
-      "gf": 4,
-      "gs": 9
-    },
-    {
-      "name": "Elisa Riva",
-      "teamName": "Rising Sun",
-      "wins": 0,
-      "draws": 1,
-      "losses": 3,
-      "gf": 3,
-      "gs": 10
-    }
+  {
+    "name": "Aidan Conti",
+    "teamName": "Iberian Flair",
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "gf": 0,
+    "gs": 0,
+    "gd": 0
+  },
+  {
+    "name": "Alex Beltrame",
+    "teamName": "Nordic Storm",
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "gf": 0,
+    "gs": 0,
+    "gd": 0
+  },
+  {
+    "name": "Andrea Campagnolo",
+    "teamName": "Atlas Lions",
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "gf": 0,
+    "gs": 0,
+    "gd": 0
+  },
+  {
+    "name": "Cristian Tartaro",
+    "teamName": "Eagle Eyes",
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "gf": 0,
+    "gs": 0,
+    "gd": 0
+  },
+  {
+    "name": "Denis Mascherin",
+    "teamName": "Caribbean Beat",
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "gf": 0,
+    "gs": 0,
+    "gd": 0
+  },
+  {
+    "name": "Federico Burello",
+    "teamName": "Azzurri Pulse",
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "gf": 0,
+    "gs": 0,
+    "gd": 0
+  },
+  {
+    "name": "Kevin Di Bernardo",
+    "teamName": "Samba Vision",
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "gf": 0,
+    "gs": 0,
+    "gd": 0
+  },
+  {
+    "name": "Kevin Sandri",
+    "teamName": "Albiceleste Dynasty",
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "gf": 0,
+    "gs": 0,
+    "gd": 0
+  },
+  {
+    "name": "Lorenzo Moro",
+    "teamName": "Lusitan Pride",
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "gf": 0,
+    "gs": 0,
+    "gd": 0
+  },
+  {
+    "name": "Mattia Beltrame",
+    "teamName": "Red Wave",
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "gf": 0,
+    "gs": 0,
+    "gd": 0
+  },
+  {
+    "name": "Nicola Marano",
+    "teamName": "Viking Spirit",
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "gf": 0,
+    "gs": 0,
+    "gd": 0
+  },
+  {
+    "name": "Valentina Pozzi",
+    "teamName": "Rising Sun",
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "gf": 0,
+    "gs": 0,
+    "gd": 0
+  }
   ],
   "palmares": [
     { "year": 2022, "winner": "Argentina", "manager": "Kevin Sandri" }
