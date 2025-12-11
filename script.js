@@ -157,4 +157,3 @@ const loadData = async () => {
 };
 
 document.addEventListener("DOMContentLoaded", loadData);
-

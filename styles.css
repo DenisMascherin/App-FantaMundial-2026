@@ -11,7 +11,8 @@
   --success: #6ee7b7;
   --danger: #ef4444;
   --shadow: 0 25px 60px -20px rgba(0, 0, 0, 0.65);
-  font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
 }
 
 * {
@@ -20,8 +21,11 @@
 
 body {
   margin: 0;
-  background:
-    radial-gradient(circle at 10% 20%, rgba(100, 216, 255, 0.14), transparent 32%),
+  background: radial-gradient(
+      circle at 10% 20%,
+      rgba(100, 216, 255, 0.14),
+      transparent 32%
+    ),
     radial-gradient(circle at 85% 10%, rgba(255, 183, 3, 0.12), transparent 30%),
     linear-gradient(145deg, #0b1019 0%, #0f1624 60%, #0c111b 100%);
   color: var(--text);
@@ -98,7 +102,12 @@ a {
 }
 
 .hero {
-  background: linear-gradient(140deg, rgba(15, 23, 42, 0.9) 0%, rgba(18, 31, 50, 0.92) 60%, rgba(11, 18, 32, 0.9) 100%);
+  background: linear-gradient(
+    140deg,
+    rgba(15, 23, 42, 0.9) 0%,
+    rgba(18, 31, 50, 0.92) 60%,
+    rgba(11, 18, 32, 0.9) 100%
+  );
   padding: 64px clamp(20px, 4vw, 48px) 120px;
   position: relative;
   overflow: hidden;
@@ -111,8 +120,11 @@ a {
   content: "";
   position: absolute;
   inset: 0;
-  background:
-    radial-gradient(circle at 20% 20%, rgba(100, 216, 255, 0.18), transparent 32%),
+  background: radial-gradient(
+      circle at 20% 20%,
+      rgba(100, 216, 255, 0.18),
+      transparent 32%
+    ),
     radial-gradient(circle at 70% 10%, rgba(255, 183, 3, 0.18), transparent 32%),
     linear-gradient(120deg, rgba(76, 201, 240, 0.12), transparent 60%);
   pointer-events: none;
@@ -219,7 +231,11 @@ a {
   content: "";
   position: absolute;
   inset: 0;
-  background: radial-gradient(circle at 20% 20%, rgba(100, 216, 255, 0.08), transparent 30%);
+  background: radial-gradient(
+    circle at 20% 20%,
+    rgba(100, 216, 255, 0.08),
+    transparent 30%
+  );
   pointer-events: none;
 }
 
@@ -405,7 +421,12 @@ select {
 }
 
 .info {
-  background: linear-gradient(135deg, rgba(76, 201, 240, 0.08), rgba(255, 183, 3, 0.08)), var(--panel);
+  background: linear-gradient(
+      135deg,
+      rgba(76, 201, 240, 0.08),
+      rgba(255, 183, 3, 0.08)
+    ),
+    var(--panel);
 }
 
 .notes {
@@ -448,4 +469,3 @@ code {
     padding-bottom: 70px;
   }
 }
-
